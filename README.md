@@ -1,4 +1,4 @@
-# 4.Execution_of_NetworkCommands
+# EX4.Execution of NetworkCommands
 ## AIM :
 Use of Network commands in Real Time environment
 ## Software : 
